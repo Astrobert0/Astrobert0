@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Astrobert0
+- 👀 I’m interested in Machine learning
+- 🌱 I’m currently learning Python, scikit-learn nad statistics
+- 📫 How to reach me: sebastianajlds@gmail.com
